@@ -1,3 +1,4 @@
+// print box pattren
 import java.util.Scanner;
 class box
 {
